@@ -1,0 +1,59 @@
+Senior Full Stack Developer
+
+Company: TechCorp Solutions
+Location: Remote / Hybrid
+Experience: 5+ years
+
+Job Description:
+We are seeking an experienced Full Stack Developer to join our growing engineering team. You will be responsible for designing, developing, and maintaining scalable web applications using modern technologies.
+
+Required Skills:
+- 5+ years of professional software development experience
+- Strong proficiency in JavaScript/TypeScript
+- Experience with React.js and Next.js
+- Backend development with Node.js and Express
+- Database design and management (PostgreSQL, MongoDB)
+- RESTful API design and implementation
+- Git version control
+- Agile/Scrum methodologies
+
+Preferred Skills:
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Docker and Kubernetes
+- CI/CD pipelines
+- GraphQL
+- Testing frameworks (Jest, Cypress)
+- Microservices architecture
+- Python or Go programming
+
+Responsibilities:
+- Design and develop full-stack web applications
+- Write clean, maintainable, and well-documented code
+- Collaborate with cross-functional teams
+- Participate in code reviews
+- Mentor junior developers
+- Optimize application performance
+- Implement security best practices
+- Stay updated with emerging technologies
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field (or equivalent experience)
+- Strong problem-solving skills
+- Excellent communication skills
+- Ability to work independently and in a team
+- Experience with Agile development practices
+
+Nice to Have:
+- Open source contributions
+- Technical blog or portfolio
+- Hackathon participation
+- Leadership experience
+- Startup experience
+
+Benefits:
+- Competitive salary
+- Health insurance
+- Remote work options
+- Professional development budget
+- Flexible working hours
+- Stock options
